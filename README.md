@@ -2,7 +2,7 @@
 
 Hello everyone, I'm studying computer science at INACAP - CHILE and the choosen language to learn in my course is... Python!
 
-## I will be mastering this:
+## I will be mastering these concepts:
 
 - Basic datatypes in python
 - Prototyping with classes
