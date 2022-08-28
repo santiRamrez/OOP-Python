@@ -5,6 +5,7 @@ Hello everyone, I'm studying computer science at INACAP - CHILE and the choosen 
 ## I will be mastering these concepts:
 
 - Basic datatypes in python
+- Some algorithms
 - Prototyping with classes
 - Encapsulation
 - Polymorphism
